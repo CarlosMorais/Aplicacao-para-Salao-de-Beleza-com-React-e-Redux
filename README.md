@@ -1,5 +1,5 @@
 # Demonstração
-Link para visualizar/testar: 
+Link para visualizar/testar:
 https://carlosmorais.github.io/Aplicacao-para-Salao-de-Beleza-com-React-e-Redux/build
 <br><br>
 <a href="https://carlosmorais.github.io/Aplicacao-para-Salao-de-Beleza-com-React-e-Redux/build" target="_blank">![alt text](build/print.png)</a>
