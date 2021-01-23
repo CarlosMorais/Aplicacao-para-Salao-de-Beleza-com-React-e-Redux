@@ -1,3 +1,10 @@
+# Demonstração
+Link para visualizar/testar: 
+https://carlosmorais.github.io/Aplicacao-para-Salao-de-Beleza-com-React-e-Redux/build
+<br><br>
+<a href="https://carlosmorais.github.io/Aplicacao-para-Salao-de-Beleza-com-React-e-Redux/build" target="_blank">![alt text](build/print.png)</a>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
